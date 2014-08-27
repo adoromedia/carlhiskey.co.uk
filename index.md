@@ -5,7 +5,7 @@ id: home
 
 # Mobile Sports Therapist based in London and Hertfordshire
 
-I am a mobile Sports Therapist based in Northwest London and Hertfordshire specifically dedicated with the prevention of injury and the rehabilitation of the patient, bringing them back to optimum levels of functional, occupational and sports specific fitness, regardless of age and ability.
+I am a mobile Sports Therapist based in Northwest London and Hertfordshire specifically dedicated to the prevention of injury and the rehabilitation of the patient, bringing them back to optimum levels of functional, occupational and sports specific fitness, regardless of age and ability.
 
 ## More than just sports injuries
 

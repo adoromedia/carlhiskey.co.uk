@@ -21,8 +21,7 @@ Suite 5A (First Floor),<br>
 Stanmore Towers,<br>
 8-14 Church Road,<br>
 Stanmore,<br>
-Harrow,<br>
-London<br> HA7 4AW
+HA7 4AW
 
 <!--
 Health-and-harmony.net
