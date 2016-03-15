@@ -177,17 +177,24 @@ a:hover {
 }
 
 #logo {
+	float: left;
+}
 
+@media(max-width: 700px) {
+	#logo {
+		float: none;
+		overflow: hidden;
+	}
 }
 
 #logo .avatar {
 	margin-top: 4px;
-	float: left;
 	border-radius: 50%;
 	overflow: hidden;
 	width: 32px;
 	height: 32px;
 	margin-right: 10px;
+	float: left;
 }
 
 #header h1 a {
@@ -217,6 +224,12 @@ a:hover {
     margin-top: 19px;
 }
 
+@media(max-width: 700px) {
+	#nav {
+		float: none;
+	}
+}
+
 #nav ul {
     list-style: none;
     overflow: hidden;
@@ -230,6 +243,13 @@ a:hover {
     margin-right: 2px;
 }
 
+@media(max-width: 500px) {
+	#nav ul li {
+		font-size: 0.8em;
+		margin-right: 1px;
+	}
+}
+
 #nav ul li a {
     text-decoration: none;
     display: block;
@@ -238,6 +258,12 @@ a:hover {
 	border-radius: 6px 6px 0 0;
 	border-bottom: 0px;
 	color: #fff;
+}
+
+@media(max-width: 500px) {
+	#nav ul li a {
+		padding: 7px 11px;
+	}
 }
 
 #nav ul li a.active {
