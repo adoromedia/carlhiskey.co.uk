@@ -18,6 +18,3 @@ permalink: /services/
 
 ## Sports Massage
 (60 minutes) - £50
-
-## Pregnancy Massage
-(90 minutes) £50
