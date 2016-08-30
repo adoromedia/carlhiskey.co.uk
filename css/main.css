@@ -404,12 +404,12 @@ p code {
 * Large screen
 **********************************************************/
 
-@media (min-width: 960px) {
+@media (min-width: 760px) {
 
 	#content,
 	#headerInner,
 	#footerInner {
-		width: 960px;
+		width: 760px;
 		margin: 0 auto;
 	}
 

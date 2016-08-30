@@ -8,13 +8,10 @@ permalink: /services/
 # Services
 
 ## Injury Assessment
-(45 minutes) - £40
+Price: £45
 
 ## Sports Therapy Treatment
-(45 minutes) - £40
+Price: £45
 
-## Sports Massage
-(30 minutes) - £35
-
-## Sports Massage
-(60 minutes) - £50
+## Sports Massage (1 hour)
+Price: £55
